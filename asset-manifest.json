@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/random-chord-generator/static/css/main.be82f916.chunk.css",
+    "main.js": "/random-chord-generator/static/js/main.78adfee3.chunk.js",
+    "main.js.map": "/random-chord-generator/static/js/main.78adfee3.chunk.js.map",
+    "runtime-main.js": "/random-chord-generator/static/js/runtime-main.6f89b695.js",
+    "runtime-main.js.map": "/random-chord-generator/static/js/runtime-main.6f89b695.js.map",
+    "static/js/2.d78c64ce.chunk.js": "/random-chord-generator/static/js/2.d78c64ce.chunk.js",
+    "static/js/2.d78c64ce.chunk.js.map": "/random-chord-generator/static/js/2.d78c64ce.chunk.js.map",
+    "index.html": "/random-chord-generator/index.html",
+    "static/css/main.be82f916.chunk.css.map": "/random-chord-generator/static/css/main.be82f916.chunk.css.map",
+    "static/js/2.d78c64ce.chunk.js.LICENSE.txt": "/random-chord-generator/static/js/2.d78c64ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f89b695.js",
+    "static/js/2.d78c64ce.chunk.js",
+    "static/css/main.be82f916.chunk.css",
+    "static/js/main.78adfee3.chunk.js"
+  ]
+}
